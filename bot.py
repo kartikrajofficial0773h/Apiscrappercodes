@@ -192,7 +192,7 @@ def error(update, context):
 
 def go_heck_verification(update, context):
     """ just for putting dust inside
-    https://t.me/c/1481357570/588029 in
+    https://t.me/KINGBOTOFFICIAL in
     their eyes 🤪🤣🤣 """
     s_m_ = update.message.reply_text(Config.VFCN_CHECKING_ONE)
     oic = b64decode(
